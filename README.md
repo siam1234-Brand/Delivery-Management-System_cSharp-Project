@@ -80,6 +80,14 @@ It automates delivery operations by connecting multiple user roles — **Admin, 
 | **Seller (Client)** | Shipments | Own Shipments | Profile | Account |
 | **Customer (Client)** | – | Linked Shipments | Profile | Account |
 
+🔹 Login Credentials
+| Role     | Email                                     | Password |
+| -------- | ----------------------------------------- | -------- |
+| Admin    | sumaiya@gmail.com                         | 1234     |
+| Employee | siam@gmail.com                            | 1234@    |
+| Carrier  | david@gmail.com                           | 12345    |
+| Client   | mohammadalimasud11@gmail.com              | 12345    |
+
 ---
 ## ER DIAGRAM
 <img width="940" height="638" alt="image" src="https://github.com/user-attachments/assets/fb12cc6b-4c40-4cc4-b77b-a5f2207f3d06" />
