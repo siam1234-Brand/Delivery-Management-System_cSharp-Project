@@ -173,7 +173,7 @@ It automates delivery operations by connecting multiple user roles — **Admin, 
 
 Language: C# (.NET Framework, WinForms)
 
-Database: Microsoft SQL Server
+Database: Microsoft SQL Server 2014/2022
 
 IDE: Visual Studio
 
