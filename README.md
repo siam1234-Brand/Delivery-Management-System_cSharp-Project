@@ -201,5 +201,5 @@ It strengthened our understanding of modular programming, data validation, and s
 
 📄 License
 
-This project is developed for educational purposes under AIUB.
+This project is developed for educational purposes under AIUB. Feel free to fork and modify for your own learning and experimentation.
 All rights reserved © 2025 Group 05, AIUB.
