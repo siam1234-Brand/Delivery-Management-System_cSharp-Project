@@ -94,28 +94,35 @@ It automates delivery operations by connecting multiple user roles — **Admin, 
 
 ## 💾 Example SQL Queries
 
-**SELECT Queries**
+**SELECT QUERY:**
+1.	SELECT * FROM Signup WHERE Email = {email};
+2.	SELECT Password FROM Signup WHERE Email = '{Email}';
+3.	select * from Payments;
+4.	SELECT PaymentStatus FROM Shipment WHERE ShipmentId = txtId.Text;
+5.	SELECT ClientId FROM SignUp WHERE Email='{staticWelcome.email}';
+6.	select distinct Origin from Route;
+7.	SELECT Role, Name FROM Signup WHERE Email = '{email}' AND Password = '{password}'";
+8.	$"SELECT * FROM Signup WHERE Email = '{email}'";
+9.	"SELECT * FROM employee WHERE EmployeeId =" + Id;
+10.	$"SELECT * FROM Signup WHERE Email = '{email}'";
+    
+**UPDATE QUERY:**
+1.	UPDATE SignUp SET + "Password = '" + password + "', " + "DateOfBirth = '" + dob + "', " + "Gender = '" + gender + "', " + "ClientContact = '" + contact + "', " + "Address = '" + address + "' " + "WHERE ClientId = " + ClientId;
+2.	UPDATE Shipment SET TrackingStatus='" + cmbTrackingStatus.SelectedItem + "',TypeOfGoods='" + txtGoods.Text  + "',EstimatedDeliveryTime='" + dateTimePicker1.Value + "',Carrier='" + cmbCarrier.SelectedValue + "' WHERE ShipmentId=" + txtId.Text;
+3.	$"UPDATE Carrier SET Name='{name}', Password='{password}', DateOfBirth='{dob:yyyy-MM-dd}', Gender='{gender}', Contact='{contact}', Address='{address}' WHERE LoginId = {Id}";
 
-SELECT * FROM Signup WHERE Email = '{email}';
-SELECT PaymentStatus FROM Shipment WHERE ShipmentId = '{txtId.Text}';
+**INSERT QUERY:**
+1.	INSERT INTO SignUp (Name, Email, Password,DateOfBirth,Gender,ClientContact,Address, Role) " + $"VALUES ('{name}', '{email}', '{password}', '{dob:yyyy-MM-dd}', '{gender}' , '{contact}', '{address}','Client')";
+2.	INSERT INTO SignUp (Name, Email, Role) "+ $"VALUES ('{RName}', '{REmail}', 'Client')";
+3.	INSERT INTO Route (Origin,Destination) " VALUES ('{Origin}','{Destination}')";
+4.	INSERT INTO Employee(LoginId,Name,Email,Password,DateOfBirth,Gender,Contact,Address)" +$"Values('{Id}','{Name}', '{email}', '{Password}', '{dob}','{gender}','{Contact}','{Address}')";
 
-**Insert Queries**
-INSERT INTO Route (Origin, Destination) VALUES ('Dhaka', 'Chittagong');
-INSERT INTO SignUp (Name, Email, Password, Role) VALUES ('Siam', 'siam@example.com', '1234', 'Client');
-INSERT Queries
+**DELETE QUERY:**
+1.	delete from Shipment where ShipmentId=" + txtId.Text;
+2.	$"DELETE FROM Payments WHERE PaymentID={txtPaymentId.Text}";
+3.	delete from LOGIN where UserId= + Id;
+4.	$"DELETE FROM Signup WHERE Email = '{email}'";
 
-INSERT INTO Route (Origin, Destination) VALUES ('Dhaka', 'Chittagong');
-INSERT INTO SignUp (Name, Email, Password, Role) VALUES ('Siam', 'siam@example.com', '1234', 'Client');
-
-
-**UPDATE Queries**
-
-UPDATE Shipment SET TrackingStatus='In Transit' WHERE ShipmentId=1;
-
-
-**DELETE Queries**
-
-DELETE FROM Shipment WHERE ShipmentId=1;
 
 🖼️ UI Screenshots
 
