@@ -168,7 +168,7 @@ Design Pattern: Layered architecture (UI, Logic, Database)
 
 Clone this repository:
 
-git clone https://github.com/yourusername/Delivery-Management-System.git
+git clone https://github.com/siam1234-Brand/Delivery-Management-System_cSharp-Project
 
 
 Open the project in Visual Studio.
