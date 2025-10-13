@@ -9,8 +9,11 @@
 
 
 ## Supervised by:
-**Mehedi Sayed** - Programmer, SDD  
-Email: [sayedmehedi@aiub.edu](mailto:sayedmehedi@aiub.edu)
+- **Mehedi Sayed**  
+  Programmer, SDD  
+  Email: [sayedmehedi@aiub.edu](mailto:sayedmehedi@aiub.edu)  
+  American International University–Bangladesh (AIUB)
+
 
 ## Developed by:
 - **Mohammad Ali Masud**  
@@ -90,7 +93,7 @@ It automates delivery operations by connecting multiple user roles — **Admin, 
 | **Seller (Client)** | Shipments | Own Shipments | Profile | Account |
 | **Customer (Client)** | – | Linked Shipments | Profile | Account |
 
-🔹 Login Credentials
+## 🔹 Login Credentials
 | Role     | Email                                     | Password |
 | -------- | ----------------------------------------- | -------- |
 | Admin    | sumaiya@gmail.com                         | 1234     |
@@ -134,7 +137,7 @@ It automates delivery operations by connecting multiple user roles — **Admin, 
 4.	$"DELETE FROM Signup WHERE Email = '{email}'";
 
 
-🖼️ UI Screenshots
+### 🖼️ UI Screenshots
 
 ## Login Page
 <img width="940" height="504" alt="image" src="https://github.com/user-attachments/assets/90780cf6-9310-45be-8dd7-cd2f306b3eec" />
@@ -189,7 +192,7 @@ IDE: Visual Studio
 
 Design Pattern: Layered architecture (UI, Logic, Database)
 
-🏁 How to Run
+## 🏁 How to Run
 
 Clone this repository:
 
@@ -204,12 +207,12 @@ Configure the connection string in DbHelper.cs.
 
 Run the project — the login form will appear as the starting window.
 
-📚 Learning Outcome
+## 📚 Learning Outcome
 
 This project demonstrates how object-oriented design, GUI-based data operations, and database integration can be combined to build a complete real-world system.
 It strengthened our understanding of modular programming, data validation, and system verification in a C# environment.
 
-📄 License
+## 📄 License
 
 This project is developed for educational purposes under AIUB. Feel free to fork and modify for your own learning and experimentation.
 All rights reserved © 2025 Group 05, AIUB.
