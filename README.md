@@ -7,17 +7,16 @@
 **Section:** R  
 **Group:** 05  
 
-## Supervised by:
-**Mehedi Sayed** - Programmer, SDD  
-Email: [sayedmehedi@aiub.edu](mailto:sayedmehedi@aiub.edu)
-
 ## Developed by:
-- Mohammad Ali Masud   
+- **Mohammad Ali Masud**  
   Email: [23-51676-2@student.aiub.edu](mailto:23-51676-2@student.aiub.edu)
-- Md. Mahabubur Rahaman Siam  
+  
+- **Md. Mahabubur Rahaman Siam**  
   Email: [23-51706-2@student.aiub.edu](mailto:23-51706-2@student.aiub.edu)
-- Sumaiya Naeem Mohammed 
+  
+- **Sumaiya Naeem Mohammed**  
   Email: [23-54378-3@student.aiub.edu](mailto:23-54378-3@student.aiub.edu)
+
 
 ---
 
