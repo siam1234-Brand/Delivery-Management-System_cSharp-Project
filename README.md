@@ -7,11 +7,17 @@
 **Section:** R  
 **Group:** 05  
 
-**Supervised by:** Mehedi Sayed  
-**Developed by:**
-- Mohammad Ali Masud (ID: 23-51676-2)  
-- Md. Mahabubur Rahaman Siam (ID: 23-51706-2)  
-- Sumaiya Naeem Mohammed (ID: 23-54378-3)
+## Supervised by:
+**Mehedi Sayed** - Programmer, SDD  
+Email: [sayedmehedi@aiub.edu](mailto:sayedmehedi@aiub.edu)
+
+## Developed by:
+- Mohammad Ali Masud   
+  Email: [23-51676-2@student.aiub.edu](mailto:23-51676-2@student.aiub.edu)
+- Md. Mahabubur Rahaman Siam  
+  Email: [23-51706-2@student.aiub.edu](mailto:23-51706-2@student.aiub.edu)
+- Sumaiya Naeem Mohammed 
+  Email: [23-54378-3@student.aiub.edu](mailto:23-54378-3@student.aiub.edu)
 
 ---
 
