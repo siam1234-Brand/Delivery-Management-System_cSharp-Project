@@ -1,6 +1,6 @@
 # 🚚 Delivery Management System
 
-### 🏫 American International University–Bangladesh (AIUB)
+## <img width="30" height="20" alt="image" src="https://github.com/user-attachments/assets/a0a0e969-3d80-4199-aebf-bbc9b417f12e" />American International University–Bangladesh (AIUB)  
 **Department:** Computer Science  
 **Course:** CSC2210 – Object Oriented Programming 2  
 **Semester:** Summer 2024–2025  
