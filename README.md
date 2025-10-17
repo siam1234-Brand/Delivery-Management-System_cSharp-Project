@@ -217,4 +217,4 @@ It strengthened our understanding of modular programming, data validation, and s
 ## 📄 License
 
 This project is developed for educational purposes under AIUB. Feel free to fork and modify for your own learning and experimentation.
-All rights reserved © 2025 Group 05, AIUB.
+All rights reserved © OBJECT ORIENTED PROGRAMMING 2 [R]_Group 5_Project Team.
