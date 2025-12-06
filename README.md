@@ -32,6 +32,8 @@
 The **Delivery Management System** is a desktop-based logistics platform built with **C# (WinForms)** and **SQL Server** to manage shipments, payments, and delivery tracking between sellers and customers.  
 It automates delivery operations by connecting multiple user roles — **Admin, Employee, Carrier, and Client** — within one integrated database system.
 
+For More detailes And images refer to the [ProjectReport](./ProjectReport.pdf) included in this repository.
+
 ---
 
 ## 🎯 Objectives
